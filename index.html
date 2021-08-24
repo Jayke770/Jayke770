@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#7e22ce">
+    <title>Jayke770</title>
+    <link rel="stylesheet" href="public/css/tailwind.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="h-screen flex justify-center items-center">
+        <div class="animate__animated animate__fadeInUp cursor-pointer transition-all border border-transparent hover:border-sky-500 flex flex-col justify-center items-center gap-3 shadow-lg rounded-xl hover:bg-bluegray-900 bg-gray-800 md:w-[95%] w-96 h-auto px-3 py-4">
+            <div class="uppercase text-gray-200 font-bold tracking-wider text-3xl xsm:text-2xl">coming soon</div>
+            <div class="uppercase text-sky-400 text-sm time">date & time</div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        $(document).ready( () => {
+            $(".time").html(moment().format('MMMM DD YYYY, h:mm:ss a'))
+        })
+    </script>
+</body>
+</html>
