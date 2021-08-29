@@ -1,2 +1,1 @@
-# My Website
-https://jayke770.github.io/Jayke770/
+![Profile views](https://komarev.com/ghpvc/?username=Jayke770&color=blueviolet)
