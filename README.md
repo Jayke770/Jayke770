@@ -14,5 +14,13 @@ Full stack web developer with a passion for creating seamless user experiences. 
 </p>
 
 # Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayke770&show_icons=true&theme=radical"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayke770&layout=compact&theme=radical">
+
+<p align="center">
+   <img src="https://streak-stats.demolab.com?user=jayke770&theme=transparent&hide_border=true"/>
+</p>
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayke770&show_icons=true&theme=transparent&hide_border=true"> 
+</p>
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayke770&layout=normal&theme=transparent&hide_border=true">
+</p>
