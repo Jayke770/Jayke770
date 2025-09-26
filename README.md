@@ -6,7 +6,7 @@ Full stack web developer with a passion for creating seamless user experiences. 
 <br/>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&i=bun,js,css,ts,tailwind,html,python,solidity,rust,nextjs,react,php,nodejs,bots,elysia,express,fastapi,jquery,tauri,docker,ubuntu,nginx,figma,firebase,git,github,gmail,instagram,ipfs,kali,linkedin,mongodb,npm,postman,powershell,rabbitmq,redis,regex,sentry,twitter,vercel,vite,vscode,windows,webpack,yarn,expo" />
+    <img src="https://skillicons.dev/icons?&i=bun,js,css,ts,tailwind,html,python,solidity,rust,nextjs,react,php,nodejs,bots,elysia,express,fastapi,jquery,tauri,docker,ubuntu,nginx,figma,firebase,git,github,gmail,instagram,ipfs,kali,linkedin,mongodb,npm,postman,powershell,rabbitmq,redis,regex,sentry,twitter,vercel,vite,vscode,windows,webpack,yarn,expo,androidstudio" />
   </a>
   <br/>
   <br/>
